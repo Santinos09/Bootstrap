@@ -26,6 +26,12 @@
   text-align: center;
 }
 
-.imagen{
-    padding: 100px;
-}
+.formulario{
+    padding: 8px;
+  }
+  
+  .formulario input:focus{
+    background-color:grey;
+    transform: scale(1.05);
+    transition: .3s;
+  }
