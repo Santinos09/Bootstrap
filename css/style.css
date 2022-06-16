@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.main {
+    padding: 5px;
+  display: flex;
+  flex-direction: left;
+  background-color: black;
+  align-content: center;
+  flex-wrap: wrap;
+  min-width: 300px;
+}
+
+.tituloTabla {
+  color: black;
+  background-color: lightcoral;
+  font-size: 25px;
+  padding: 5px;
+}
+
+.datosTabla {
+  background-color: lightcoral;
+  font-size: 23px;
+  text-align: center;
+}
+
+.imagen{
+    padding: 100px;
+}
